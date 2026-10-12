@@ -1,0 +1,18 @@
+
+requests==2.31.0
+flask==1.3.0
+numpy==1.16.0
+somefakepackage123==1.0.0
+huggingface-cli == 0.1.0
+pyyam1 == 5.1
+Django
+pandas
+beautifulsoup4
+langchain
+langchain-community
+scikit-learn
+six
+openai
+open-function-calling
+requests
+numpy
